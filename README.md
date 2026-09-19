@@ -1,7 +1,7 @@
 # 🍕 Food Storage - Evaluación 1
 
 ## 🎥 Enlace al Video
-[Explicación del código](https://youtu.be/)
+[Explicación del código](https://youtu.be/QlhxXizzNJU)
 
 ## 📘 Descripción
 
@@ -49,6 +49,14 @@ Incluye un diseño moderno, miniaturas en el carrito, controles de cantidad y un
    ```bash
    pnpm install
 
+2. **Ejecutar el servidor de desarrollo**:
+
+   ```bash
+   pnpm dev
+   ```
+
+3. **Acceder a la aplicacion**:
+   Abre tu navegador en `http://localhost:5173`
 ---
 
 ## 📁 Estructura del Proyecto
